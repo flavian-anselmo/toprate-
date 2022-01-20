@@ -28,7 +28,8 @@ The image below indicates what the user will see.
  ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
 
 If you don'nt have an account click ``don't have an account? Sign up``. This will move the user to the registration screen for platform registration. 
-Below is an image for the registration page:
+Below is an image for the registration page.
+
  ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
 
 
