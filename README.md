@@ -13,9 +13,15 @@ Below are instarction on how to get the web app as a ``Desktop``
 For users comfortable with a web application, click the link provided to access the platform. 
 
 ## How to use the platform
-Once the application is lauched for the first time the user is able to see an initalisation screen indicating that the application is loading.
+* Once the application is lauched for the first time the user is able to see an initalisation screen indicating that the application is loading.
 The image below indicates what the user will see. 
  ![splash-screen](https://github.com/flavian-anselmo/toprate-/blob/main/splash.png)
+* The application loads and you are pushed to the login or the SignIn page for Authentication.
+* Enter your email and the password to logIn.Below is the login form:
+   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+* If you happen to forget your password, click ``forgot password?`` where you will be pushed to a page that prompts your email which will then send you 
+  an link in the email provided. Click the link and enter your new password. Below is the page:
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    
 
 
  
