@@ -44,7 +44,7 @@ It has a Bottom navigation bar for navigating different pages for specific servi
 Below is a screen shot for the bottom navigation bar.
  ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
 
-
+### How to view your profile 
 At the top which is the ``Appbar`` for the platform has an hambuger button that has a side bar. In the side bar the user can check his profile, and logout from the application. Below is a screen shot.
 
 ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
@@ -55,18 +55,18 @@ students.Below is a screenshot.
  
  ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
 
-
+### How to navigate the platform
 * To navigate the pages, use the bottom navigation bar, always click home to move to the Home page.
 Click ``modules`` to view the course modules being offered in the platform.Click any of them to view the content posted and also discuss with other users 
 using a group chat functionality. 
 -module view screen shot 
  
  ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
-
+### chat room 
 Click button ``Discussion`` to join the group chat with other users. Below is a screenshot for the chat room 
 
 ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
-
+### How to submit assignments 
 * Assignments provided by the facilitator will be submitted through the navigation button ``Submit Assignments``. In that page users will be able to choose the module part they are submitting the assignments, this depends with what the assignment was covering. For example if the assignment was covreing about a module concept like ``Leadership and governance`` , select that from the dropdown list and click submit, the button will allow you to pick a file to upload for the facilitator to be able to view. below are screen shots for the operation.
 
 
@@ -75,7 +75,7 @@ Click button ``Discussion`` to join the group chat with other users. Below is a 
 
 
 
-
+### How to view assignments posted by facilitator or Admin 
 To view the assignments posted by the facilitator or the admin, click ``My Assignments`` this will list all the assignments with their names and the module in which they reside.For example a ``finance management`` assignment will have the module name when listed to help the learner know where the assignment resides since the user has to choose the module name while submitting.
 
  ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
