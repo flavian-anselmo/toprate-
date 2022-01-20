@@ -5,4 +5,4 @@
 ``Toprate`` learning plartform can be used as a web application and also be used as a Desktop application.
 Below are instarction on how to get the web app as a ``Desktop``
 1. Open the web app with the link provided. 
-2. 
+![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
