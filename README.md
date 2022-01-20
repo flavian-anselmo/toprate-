@@ -100,8 +100,8 @@ To view the assignments posted by the facilitator or the admin, click ``My Assig
  
  
  
-                                                           
-                                                                        **The End**
+                                                        
+                                                       **The End**
 
 
 
