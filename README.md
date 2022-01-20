@@ -20,23 +20,23 @@ The image below indicates what the user will see.
 * The application loads and you are pushed to the login or the SignIn page for Authentication.
 * Enter your email and the password to logIn.Below is the login form.
 * 
-   ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
+   ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/login.png)
 
 * If you happen to forget your password, click ``forgot password?`` where you will be pushed to a page that prompts your email which will then send you 
   an link in the email provided. Click the link and enter your new password. Below is the page.
   
- ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
+ ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/forget.png)
 
 If you don'nt have an account click ``don't have an account? Sign up``. This will move the user to the registration screen for platform registration. 
 Below is an image for the registration page.
 
- ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
+ ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/register.png)
 
 
 For the registration page, Enter your username, email and desired password and click ``sign up``.The application will send an email to the user's mail for verification process. 
 ### The Home page 
 After a succesfull authentication process the user will have access to the application's Home page as shown below:
- ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
+ ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/home.png)
 
 It has a Bottom navigation bar for navigating different pages for specific services.The navigation bar has :
 
@@ -45,18 +45,18 @@ It has a Bottom navigation bar for navigating different pages for specific servi
 3. Submit Assignments 
 4. My assignments 
 Below is a screen shot for the bottom navigation bar.
- ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
+ ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/bottom-nav.png)
 
 ### How to view your profile 
 At the top which is the ``Appbar`` for the platform has an hambuger button that has a side bar. In the side bar the user can check his profile, and logout from the application. Below is a screen shot.
 
-![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
+![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/side.png)
 
 Click ``profile`` to view your email and your role in the platform.A user is either a Student or an Admin. 
 Students will consume the content posted by the admins in the platform while the admins will post and view content sbmitted by the learners or the 
 students.Below is a screenshot.
  
- ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
+ ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/profile.png)
 
 ### How to navigate the platform
 * To navigate the pages, use the bottom navigation bar, always click home to move to the Home page.
@@ -64,16 +64,25 @@ Click ``modules`` to view the course modules being offered in the platform.Click
 using a group chat functionality. 
 -module view screen shot 
  
- ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
+ ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/mod.png)
+ content posted are view as shown below 
+  ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/view.png)
+
 ### chat room 
 Click button ``Discussion`` to join the group chat with other users. Below is a screenshot for the chat room 
 
-![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
+![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/chat.png)
 ### How to submit assignments 
 * Assignments provided by the facilitator will be submitted through the navigation button ``Submit Assignments``. In that page users will be able to choose the module part they are submitting the assignments, this depends with what the assignment was covering. For example if the assignment was covreing about a module concept like ``Leadership and governance`` , select that from the dropdown list and click submit, the button will allow you to pick a file to upload for the facilitator to be able to view. below are screen shots for the operation.
 
 
- ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
+ ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/sub.png)
+ 
+ Dropdown list to choose from.
+ 
+  ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/sub.png)
+
+ 
  
 
 
@@ -81,7 +90,18 @@ Click button ``Discussion`` to join the group chat with other users. Below is a 
 ### How to view assignments posted by facilitator or Admin 
 To view the assignments posted by the facilitator or the admin, click ``My Assignments`` this will list all the assignments with their names and the module in which they reside.For example a ``finance management`` assignment will have the module name when listed to help the learner know where the assignment resides since the user has to choose the module name while submitting.
 
- ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
+ ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/assignment.png)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+                                                                        **The End**
 
 
 
