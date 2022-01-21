@@ -5,7 +5,7 @@
 ### As a Desktop application
 ``Toprate`` learning plartform can be used as a web application and also be used as a Desktop application.
 Below are instarction on how to get the web app as a ``Desktop``
-1. Open the web app with the link provided and click  the button on the left side using the browser of your choice.
+1. Open the web app with the link provided and click  the button on the right side using the browser of your choice.
  ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/Screenshot%20from%202022-01-20%2023-04-03.png)
 2. Once the button is clicked the app will be accessible as Desktop application.
 3. Search for the app in your PC  using the key word toprate and click it to start the application 
@@ -91,6 +91,27 @@ Click button ``Discussion`` to join the group chat with other users. Below is a 
 To view the assignments posted by the facilitator or the admin, click ``My Assignments`` this will list all the assignments with their names and the module in which they reside.For example a ``finance management`` assignment will have the module name when listed to help the learner know where the assignment resides since the user has to choose the module name while submitting.
 
  ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/assignment.png)
+ 
+ 
+ ## Admin or Facilitator Guide 
+ The application has an ``admin button`` that is available only to the users that are authorised to be course facilitators. Through this button the admins can be able to post assignments for the students, update module content, and also view and get the submitted assignments.Below is a screen shot to the admin button. The ``admin`` button is on the bottom right of the ``home page``
+ 
+  ![admin-button](https://github.com/flavian-anselmo/toprate-/blob/main/assignment.png)
+Once the button above is clicked, the admin is provided with options eg either to ``upload module content``, ``upload assignment for students`` or ``view the assignments submitted`` by the students.
+ ![admin-button-content](https://github.com/flavian-anselmo/toprate-/blob/main/admin-options.png)
+ if one of the icons are clicked, the admin will be pushed to the three specific pages with screen shots as shown below.
+ 
+ 1. Upload Assignment 
+  ![admin-button-content](https://github.com/flavian-anselmo/toprate-/blob/main/upload-material.png)
+ 2. Upload Module Material
+   ![admin-button-content](https://github.com/flavian-anselmo/toprate-/blob/main/upload-assignment.png)
+ 3. View Submitted Assignments
+    ![admin-button-content](https://github.com/flavian-anselmo/toprate-/blob/main/view-assignment.png)
+
+ 
+  
+
+ 
  
  
  
