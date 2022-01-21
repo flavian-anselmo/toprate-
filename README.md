@@ -80,12 +80,12 @@ Click button ``Discussion`` to join the group chat with other users. Below is a 
 * Assignments provided by the facilitator will be submitted through the navigation button ``Submit Assignments``. In that page users will be able to choose the module part they are submitting the assignments, this depends with what the assignment was covering. For example if the assignment was covreing about a module concept like ``Leadership and governance`` , select that from the dropdown list and click submit, the button will allow you to pick a file to upload for the facilitator to be able to view. below are screen shots for the operation.
 
 
- ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/sub.png)
+ ![submit](https://github.com/flavian-anselmo/toprate-/blob/main/sub.png)
  
  
  Dropdown list to choose from.
  
-  ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/drop.png)
+  ![drop-down](https://github.com/flavian-anselmo/toprate-/blob/main/drop.png)
 
  
  
@@ -96,14 +96,14 @@ Click button ``Discussion`` to join the group chat with other users. Below is a 
 To view the assignments posted by the facilitator or the admin, click ``My Assignments`` this will list all the assignments with their names and the module in which they reside.For example a ``finance management`` assignment will have the module name when listed to help the learner know where the assignment resides since the user has to choose the module name while submitting.
 
 
- ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/assignment.png)
+ ![assignment-view](https://github.com/flavian-anselmo/toprate-/blob/main/assignment.png)
  
  
  
  ## Admin or Facilitator Guide 
  The application has an ``admin button`` that is available only to the users that are authorised to be course facilitators. Through this button the admins can be able to post assignments for the students, update module content, and also view and get the submitted assignments.Below is a screen shot to the admin button. The ``admin`` button is on the bottom right of the ``home page``
  
- ![admin-button](https://github.com/flavian-anselmo/toprate-/blob/main/assignment.png)
+ ![admin-button](https://github.com/flavian-anselmo/toprate-/blob/main/admin-button.png)
   
   
   
@@ -116,10 +116,10 @@ Once the button above is clicked, the admin is provided with options eg either t
  if one of the icons are clicked, the admin will be pushed to the three specific pages with screen shots as shown below.
  
  1. Upload Assignment 
-  ![admin-button-content](https://github.com/flavian-anselmo/toprate-/blob/main/upload-material.png)
+  ![assignment](https://github.com/flavian-anselmo/toprate-/blob/main/upload-material.png)
   
  2. Upload Module Material
-   ![admin-button-content]()
+   ![material](https://github.com/flavian-anselmo/toprate-/blob/main/upload-mat.png)
    
    
  3. View Submitted Assignments
