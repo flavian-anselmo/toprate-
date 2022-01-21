@@ -80,7 +80,7 @@ Click button ``Discussion`` to join the group chat with other users. Below is a 
  
  Dropdown list to choose from.
  
-  ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/sub.png)
+  ![My animated logo](https://github.com/flavian-anselmo/toprate-/blob/main/drop.png)
 
  
  
