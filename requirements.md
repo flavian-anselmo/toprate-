@@ -26,16 +26,16 @@ Flutter's web support enables complex standalone web apps that are rich with gra
 
 Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. Dart is an object-oriented, class-based, garbage-collected language with C-style syntax.
 
-**3. Firebase Auth **
+**3. Firebase Authentication**
 
 Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more.
 Firebase Authentication integrates tightly with other Firebase services, and it leverages industry standards like OAuth 2.0 and OpenID Connect, so it can be easily integrated with your custom backend.
 
-**4. Firebase Storage **
+**4. Firebase Storage**
 
 FirebaseStorage is a service that supports uploading and downloading large objects to Google Cloud Storage. Pass a custom instance of FirebaseApp to getInstance(FirebaseApp) which will initialize it with a storage location (bucket) specified via setStorageBucket(String)
 
-**5. Firebase cloudFirestore **
+**5. Firebase cloudFirestore**
 
 Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud. Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity. Cloud Firestore also offers seamless integration with other Firebase and Google Cloud products, including Cloud Function
 
